@@ -1,10 +1,12 @@
 # Psyberduck
 #TECHNOMANCERS
 Team Members
-*Gagan kumar soni
-*Garima pandey
-*Swayam gupta
-*Akshita gupta
+
+*Akshita Gupta
+*Gagan Kumar Soni
+*Garima Pandey
+*Swayam Gupta
+
 
 live deployment link of netlify :- https://goodifie.netlify.app/
 
