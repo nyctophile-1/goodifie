@@ -7,6 +7,7 @@ Team Members
 *Garima Pandey
 *Swayam Gupta
 
+(Back-end not yet added)
 
 live deployment link of netlify :- https://goodifie.netlify.app/
 
